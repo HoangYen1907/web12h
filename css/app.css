@@ -59,8 +59,11 @@ a{
 li a{
 	text-decoration: underline;
 	text-underline-position: under;
-	margin-bottom: 10px;
+	margin-bottom: 20px;
 	line-height: 160%;
 	text-align: left;
 	font-size: 16px;
+}
+ul{
+	border-left: 1px solid #bdbdbd;
 }
